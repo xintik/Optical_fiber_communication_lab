@@ -85,7 +85,7 @@ fprintf('Waveguide dispersion at %.2f um = %.4f ps/(nm.km)\n',...
 lambda0*1e6,given);
 
 
-% Plot
+
 
 figure;
 
